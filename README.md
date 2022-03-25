@@ -23,5 +23,5 @@ An http request POC Flutter project.
     _$S[ClassName]FromJson(json);
     Map<String, dynamic> toJson() => _$[ClassName]ToJson(this);
 - After that run this command in a terminal:
-  flutter pub run build_runner build
+  flutter pub run "build_runner build"
   This will auto generate your json parsing code
