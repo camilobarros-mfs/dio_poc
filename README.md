@@ -7,7 +7,7 @@ An http request POC Flutter project.
 # Dependencies needed
 
 - dio: ^4.0.4 or higger
-- json_serializable: ^6.1.5 or higgeror higger
+- json_serializable: ^6.1.5 or higger
 
 # Auto generating .g classes
 
