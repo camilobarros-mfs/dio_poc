@@ -1,4 +1,4 @@
-# dipoc
+# diopoc
 
 An http request POC Flutter project.
 
